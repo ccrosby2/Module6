@@ -1,0 +1,11 @@
+#Cierra Crosby
+#2/22/2024  
+#Instructor Nathan Braun
+#Module 6 Problem 4
+#This program compute the approximation of pi value in math and then print that value. 
+#This is problem 4
+
+import math
+print ("This is pi rounded to the nearest whole number")
+print (math.pi)
+print (round(22/7, 2))

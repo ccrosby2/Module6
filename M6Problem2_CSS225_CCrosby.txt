@@ -1,0 +1,21 @@
+#Cierra Crosby
+#2/22/2024  
+#Instructor Nathan Braun
+#Module 6 Problem 2
+
+#This is problem 2
+#This program prints a random number between 1 and 100
+#This program prints a number to be odd
+
+
+
+import random
+var=random.randrange(1,100)
+
+print("This is a odd number in a list of numbers between 1 and 100")
+if (var %2==1):
+    print(var)
+
+else:
+    print(var+1) 
+    

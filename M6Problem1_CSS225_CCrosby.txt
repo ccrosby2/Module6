@@ -1,0 +1,12 @@
+#Cierra Crosby
+#2/22/2024  
+#Instructor Nathan Braun
+#Module 6 Problem 1
+#This program is Problem 6. Use a for statement to calculate the factorial of a user input value. Print this value as well as the calculated value using the factorial function in the math module.
+
+
+import random
+
+print("This is a list of numbers between 25 and 35:")
+for i in range(10): 
+    print(random.randrange(25,35))

@@ -1,0 +1,18 @@
+#Cierra Crosby
+#2/22/2024  
+#Instructor Nathan Braun
+#Module 6 Problem Five
+#This programS converts radians to degrees. This program compute the conversion given and a user input value prints that value. This program the calculated value using the degrees function in the math module and prints the value.
+#This is problem 5
+
+import math
+
+radians = int(input())
+radian = radians*(math.pi/180)
+print (radian)
+
+#convert radians to degrees
+#print radians
+#print math.degrees on radians
+
+print (math.degrees(radians))

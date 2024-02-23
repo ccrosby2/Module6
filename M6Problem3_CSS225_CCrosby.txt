@@ -1,0 +1,13 @@
+#Cierra Crosby
+#2/22/2024  
+#Instructor Nathan Braun
+#Module 6 Problem 3
+#This program Use random.choice to select a day of the week from a list and print that day.
+#This is problem 3
+
+import random
+
+print ("What day of the week is it?")
+daysoftheweek=["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" ]
+dayoftheweek=random.choice(daysoftheweek)
+print (dayoftheweek)
